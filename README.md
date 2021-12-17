@@ -36,9 +36,6 @@ I'm a Cloud Engineer who's interested in:
 <li> and everything DevOps</li>
 </ul>
 </div>
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=oguzhan-yilmaz&hide=prs,issues,contribs&theme=buefy&include_all_commits=true" />
-</p>
 
 
 ### Popular Repositories
