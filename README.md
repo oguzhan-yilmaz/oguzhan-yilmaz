@@ -1,17 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-ul.no-bullets {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-ul {
-    list-style-type: none;
-}
-</style>
-
 <p align="center"> <h1 align="center"> Hi, I'm Oğuzhan Yılmaz <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="drawing" width="25"/></h1> 
 </p>
 
@@ -40,7 +26,7 @@ ul {
 I'm a Cloud Engineer who's interested in:
 </p>
 
-<ul>
+<ul style="list-style-type: none;">
 <li> AWS,</li>
 <li> Kubernetes,</li>
 <li> CI/CD, IaC,</li>
