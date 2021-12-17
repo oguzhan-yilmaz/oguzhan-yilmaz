@@ -21,23 +21,6 @@
 </a>
 
 
-<div align="center">
-<p>
-I'm a Cloud Engineer who's interested in:
-</p>
-
-<ul style="list-style-type: none;">
-<li> AWS,</li>
-<li> Kubernetes,</li>
-<li> CI/CD, IaC,</li>
-<li> Containers,</li>
-<li> Serverless,</li>
-<li> Terraform,</li>
-<li> and everything DevOps</li>
-</ul>
-</div>
-
-
 ### Popular Repositories
 
 <a href="https://github.com/oguzhan-yilmaz/aws-lambda-scheduler">
