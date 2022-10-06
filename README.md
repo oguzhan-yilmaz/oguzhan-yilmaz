@@ -18,13 +18,3 @@
 <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-y%C4%B1lmaz-2596a8140/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
-
-
-### Popular Repositories
-
-<a href="https://github.com/oguzhan-yilmaz/aws-lambda-scheduler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oguzhan-yilmaz&repo=aws-lambda-scheduler&theme=buefy" />
-</a>
-<a href="https://github.com/oguzhan-yilmaz/pyCrossfade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oguzhan-yilmaz&repo=pyCrossfade&theme=buefy" />
-</a>
