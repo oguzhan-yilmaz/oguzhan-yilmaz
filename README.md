@@ -18,3 +18,21 @@
 <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-y%C4%B1lmaz-2596a8140/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
+
+---
+
+### Projects
+
+| Name                                                                                                                     | Description                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [balcony](https://github.com/oguzhan-yilmaz/balcony)                                                                     | CLI tool to read any resource off of AWS API. Also generates Terraform import-blocks, and actual Terraform Resource code                                                           |
+| [pyCrossfade](https://github.com/oguzhan-yilmaz/pyCrossfade)                                                             | pyCrossfade is the result of a personal project to use beat matching, gradual bpm shift on bars, and EQ modification to provide smooth and tunable transitions between music files |
+| [hpa-prescaler-controller](https://github.com/hepapi/hpa-prescaler-controller)                                           | **Kubernetes Controller** for prescaling HPA replicas of ArgoCD Apps                                                                                                                   |
+| [steampipe-powerpipe-kubernetes](https://github.com/oguzhan-yilmaz/steampipe-powerpipe-kubernetes)                       | Deploy Steampipe and Powerpipe on Kubernetes with Helm Chart                                                                                                                       |
+| [powerpipe-mod-kubernetes-vpa-right-sizing](https://github.com/oguzhan-yilmaz/powerpipe-mod-kubernetes-vpa-right-sizing) | Powerpipe Mod — uses VPA Recommendations to determine Resource Request/Limit right-sizing for Kubernetes workloads                                                                                |
+| [karpenter-eks-vpc-secondary-cidr](https://github.com/oguzhan-yilmaz/karpenter-eks-vpc-secondary-cidr)                   | Example Karpenter v1alpha configuration. Includes demo: EKS Custom Networking with Secondary CIDR block for Pod IP addresses.                                                      |
+| [from-argocd-to-iac](https://github.com/oguzhan-yilmaz/from-argocd-to-iac)                                               | Bash script to transform an ArgoCD instance to App-of-Apps strategy repository                                                                                                     |
+| [jenkins-keycloak-backup](https://github.com/hepapi/jenkins-keycloak-backup)                                             | A Jenkins job to backup running bitnami Keycloak in a K8s cluster                                                                                                                  |
+| [aws-lambda-scheduler](https://github.com/oguzhan-yilmaz/aws-lambda-scheduler)                                           | AWS EventBridge Rule manager that lets you call any existing AWS Lambda Function you have in a set future time with pre-set parameters. Allows more rule creation than AWS limit.  |
+| [endpoint-latency-exporter](https://github.com/oguzhan-yilmaz/endpoint-latency-exporter)                                 | Deploy recurring Lambda Functions across AWS Regions to measure endpoint latency with Prometheus Push Gateway + Grafana Dashboards                                                 |
+| [aws-jmespath-utils](https://github.com/oguzhan-yilmaz/aws-jmespath-utils)                                               | Python jmespath custom functions to filter and exclude AWS resources by tags                                                                                                       |
