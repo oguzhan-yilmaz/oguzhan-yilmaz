@@ -41,12 +41,14 @@
 - 🐋 [argocd-backup-s3](https://github.com/oguzhan-yilmaz/argocd-backup-s3/pkgs/container/argocd-backup-s3)
 - 🐋 [hpa-prescaler-controller](https://hub.docker.com/r/hepapi/hpa-prescaler-controller)
 
-### ArtifactHub Helm Packages
+### Helm Charts
 
 - 🔰 [auto-blackbox-exporter](https://artifacthub.io/packages/helm/auto-blackbox-exporter/auto-blackbox-exporter)
 - 🔰 [argocd-backup-s3](https://artifacthub.io/packages/helm/argocd-backup-s3/argocd-backup-s3)
 - 🔰 [steampipe-powerpipe-kubernetes](https://artifacthub.io/packages/helm/steampipe-powerpipe-kubernetes/steampipe-powerpipe-kubernetes)
 - 🔰 [crtsh-kubernetes](https://artifacthub.io/packages/helm/crtsh-kubernetes/crtsh-kubernetes)
+- 🔰 [hpa-prescaler-controller](https://github.com/hepapi/hpa-prescaler-controller/tree/main/deploy/helm-chart)
+
 
 
 --- 
