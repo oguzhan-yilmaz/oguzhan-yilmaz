@@ -21,7 +21,7 @@
 
 ---
 
-## Packages Maintained 
+## Maintained Packages
 
 
 ### PyPI — pip
