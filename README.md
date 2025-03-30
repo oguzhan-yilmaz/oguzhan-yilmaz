@@ -26,9 +26,9 @@
 
 ### PyPI — pip
 
-- 🐍 [PyPI - balcony](https://pypi.org/project/balcony/)
-- 🐍 [PyPI - aws-jmespath-utils](https://pypi.org/project/aws-jmespath-utils/)
-- 🐍 [PyPI - ctower](https://pypi.org/project/ctower/)
+- 🐍 [balcony](https://pypi.org/project/balcony/)
+- 🐍 [aws-jmespath-utils](https://pypi.org/project/aws-jmespath-utils/)
+- 🐍 [ctower](https://pypi.org/project/ctower/)
 
 
 ### Docker Images
@@ -40,12 +40,12 @@
 - 🐋 [pyCrossfade](https://github.com/oguzhan-yilmaz/pyCrossfade/pkgs/container/pycrossfade)
 - 🐋 [argocd-backup-s3](https://github.com/oguzhan-yilmaz/argocd-backup-s3/pkgs/container/argocd-backup-s3)
 
-### Helm Packages
+### ArtifactHub Helm Packages
 
-- 🔰 [ArtifactHub - auto-blackbox-exporter](https://artifacthub.io/packages/helm/auto-blackbox-exporter/auto-blackbox-exporter)
-- 🔰 [ArtifactHub - argocd-backup-s3](https://artifacthub.io/packages/helm/argocd-backup-s3/argocd-backup-s3)
-- 🔰 [ArtifactHub - steampipe-powerpipe-kubernetes](https://artifacthub.io/packages/helm/steampipe-powerpipe-kubernetes/steampipe-powerpipe-kubernetes)
-- 🔰 [ArtifactHub - crtsh-kubernetes](https://artifacthub.io/packages/helm/crtsh-kubernetes/crtsh-kubernetes)
+- 🔰 [auto-blackbox-exporter](https://artifacthub.io/packages/helm/auto-blackbox-exporter/auto-blackbox-exporter)
+- 🔰 [argocd-backup-s3](https://artifacthub.io/packages/helm/argocd-backup-s3/argocd-backup-s3)
+- 🔰 [steampipe-powerpipe-kubernetes](https://artifacthub.io/packages/helm/steampipe-powerpipe-kubernetes/steampipe-powerpipe-kubernetes)
+- 🔰 [crtsh-kubernetes](https://artifacthub.io/packages/helm/crtsh-kubernetes/crtsh-kubernetes)
 
 
 --- 
