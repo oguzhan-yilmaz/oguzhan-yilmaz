@@ -39,6 +39,7 @@
 - 🐋 [steampipe-powerpipe-kubernetes--powerpipe](https://github.com/oguzhan-yilmaz/steampipe-powerpipe-kubernetes/pkgs/container/steampipe-powerpipe-kubernetes--powerpipe)
 - 🐋 [pyCrossfade](https://github.com/oguzhan-yilmaz/pyCrossfade/pkgs/container/pycrossfade)
 - 🐋 [argocd-backup-s3](https://github.com/oguzhan-yilmaz/argocd-backup-s3/pkgs/container/argocd-backup-s3)
+- 🐋 [hpa-prescaler-controller](https://hub.docker.com/r/hepapi/hpa-prescaler-controller)
 
 ### ArtifactHub Helm Packages
 
