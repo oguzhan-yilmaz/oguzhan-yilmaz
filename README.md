@@ -21,19 +21,48 @@
 
 ---
 
-### Projects
+## Packages Maintained 
+
+
+### PyPI — pip
+
+- 🐍 [PyPI - balcony](https://pypi.org/project/balcony/)
+- 🐍 [PyPI - aws-jmespath-utils](https://pypi.org/project/aws-jmespath-utils/)
+- 🐍 [PyPI - ctower](https://pypi.org/project/ctower/)
+
+
+### Docker Images
+
+- 🐋 [balcony](https://github.com/oguzhan-yilmaz/balcony/pkgs/container/balcony)
+- 🐋 [balcony-terraform-import](https://github.com/oguzhan-yilmaz/balcony/pkgs/container/balcony-terraform-import)
+- 🐋 [steampipe-powerpipe-kubernetes--steampipe](https://github.com/oguzhan-yilmaz/steampipe-powerpipe-kubernetes/pkgs/container/steampipe-powerpipe-kubernetes--steampipe)
+- 🐋 [steampipe-powerpipe-kubernetes--powerpipe](https://github.com/oguzhan-yilmaz/steampipe-powerpipe-kubernetes/pkgs/container/steampipe-powerpipe-kubernetes--powerpipe)
+- 🐋 [pyCrossfade](https://github.com/oguzhan-yilmaz/pyCrossfade/pkgs/container/pycrossfade)
+- 🐋 [argocd-backup-s3](https://github.com/oguzhan-yilmaz/argocd-backup-s3/pkgs/container/argocd-backup-s3)
+
+### Helm Packages
+
+- 🔰 [ArtifactHub - auto-blackbox-exporter](https://artifacthub.io/packages/helm/auto-blackbox-exporter/auto-blackbox-exporter)
+- 🔰 [ArtifactHub - argocd-backup-s3](https://artifacthub.io/packages/helm/argocd-backup-s3/argocd-backup-s3)
+- 🔰 [ArtifactHub - steampipe-powerpipe-kubernetes](https://artifacthub.io/packages/helm/steampipe-powerpipe-kubernetes/steampipe-powerpipe-kubernetes)
+- 🔰 [ArtifactHub - crtsh-kubernetes](https://artifacthub.io/packages/helm/crtsh-kubernetes/crtsh-kubernetes)
+
+
+--- 
+
+## Projects
 
 |                                                                                                                                                          |                                                                                                                                                                            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![](https://gh-card.dev/repos/oguzhan-yilmaz/balcony.svg)](https://github.com/oguzhan-yilmaz/balcony)                                                   | [![](https://gh-card.dev/repos/oguzhan-yilmaz/pyCrossfade.svg)](https://github.com/oguzhan-yilmaz/pyCrossfade)                                                             |
-| [![](https://gh-card.dev/repos/oguzhan-yilmaz/crtsh-kubernetes.svg)](https://github.com/oguzhan-yilmaz/crtsh-kubernetes)                                 | [![](https://gh-card.dev/repos/hepapi/hpa-prescaler-controller.svg)](https://github.com/hepapi/hpa-prescaler-controller)                                                   |
+| [![](https://gh-card.dev/repos/oguzhan-yilmaz/argocd-backup-s3.svg)](https://github.com/oguzhan-yilmaz/argocd-backup-s3)                                 | [![](https://gh-card.dev/repos/hepapi/hpa-prescaler-controller.svg)](https://github.com/hepapi/hpa-prescaler-controller)                                                   |
 | [![](https://gh-card.dev/repos/oguzhan-yilmaz/steampipe-powerpipe-kubernetes.svg)](https://github.com/oguzhan-yilmaz/steampipe-powerpipe-kubernetes)     | [![](https://gh-card.dev/repos/oguzhan-yilmaz/powerpipe-mod-kubernetes-vpa-right-sizing.svg)](https://github.com/oguzhan-yilmaz/powerpipe-mod-kubernetes-vpa-right-sizing) |
-| [![](https://gh-card.dev/repos/oguzhan-yilmaz/karpenter-eks-vpc-secondary-cidr.svg)](https://github.com/oguzhan-yilmaz/karpenter-eks-vpc-secondary-cidr) | [![](https://gh-card.dev/repos/oguzhan-yilmaz/from-argocd-to-iac.svg)](https://github.com/oguzhan-yilmaz/from-argocd-to-iac)                                               |
+| [![](https://gh-card.dev/repos/oguzhan-yilmaz/karpenter-eks-vpc-secondary-cidr.svg)](https://github.com/oguzhan-yilmaz/karpenter-eks-vpc-secondary-cidr) | [![](https://gh-card.dev/repos/oguzhan-yilmaz/crtsh-kubernetes.svg)](https://github.com/oguzhan-yilmaz/crtsh-kubernetes)                                                   |
 | [![](https://gh-card.dev/repos/hepapi/jenkins-keycloak-backup.svg)](https://github.com/hepapi/jenkins-keycloak-backup)                                   | [![](https://gh-card.dev/repos/oguzhan-yilmaz/aws-lambda-scheduler.svg)](https://github.com/oguzhan-yilmaz/aws-lambda-scheduler)                                           |
 | [![](https://gh-card.dev/repos/oguzhan-yilmaz/endpoint-latency-exporter.svg)](https://github.com/oguzhan-yilmaz/endpoint-latency-exporter)               | [![](https://gh-card.dev/repos/oguzhan-yilmaz/aws-jmespath-utils.svg)](https://github.com/oguzhan-yilmaz/aws-jmespath-utils)                                               |
-| [![](https://gh-card.dev/repos/oguzhan-yilmaz/kubectl-snapshot-api-objects.svg)](https://github.com/oguzhan-yilmaz/kubectl-snapshot-api-objects)         |                                                                                                                                                                            |
+| [![](https://gh-card.dev/repos/oguzhan-yilmaz/kubectl-snapshot-api-objects.svg)](https://github.com/oguzhan-yilmaz/kubectl-snapshot-api-objects)         | [![](https://gh-card.dev/repos/oguzhan-yilmaz/from-argocd-to-iac.svg)](https://github.com/oguzhan-yilmaz/from-argocd-to-iac)                                               |
 
-<!-- | Name                                                                                                                     | Description                                                                                                                                                                        |
+<!--                                                                                                                     | Name                                                                                                                                                                               | Description |
 | ------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [balcony](https://github.com/oguzhan-yilmaz/balcony)                                                                     | CLI tool to read any resource off of AWS API. Also generates Terraform import-blocks, and actual Terraform Resource code                                                           |
 | [pyCrossfade](https://github.com/oguzhan-yilmaz/pyCrossfade)                                                             | pyCrossfade is the result of a personal project to use beat matching, gradual bpm shift on bars, and EQ modification to provide smooth and tunable transitions between music files |
@@ -46,4 +75,4 @@
 | [jenkins-keycloak-backup](https://github.com/hepapi/jenkins-keycloak-backup)                                             | A Jenkins job to backup running bitnami Keycloak in a K8s cluster                                                                                                                  |
 | [aws-lambda-scheduler](https://github.com/oguzhan-yilmaz/aws-lambda-scheduler)                                           | AWS EventBridge Rule manager that lets you call any existing AWS Lambda Function you have in a set future time with pre-set parameters. Allows more rule creation than AWS limit.  |
 | [endpoint-latency-exporter](https://github.com/oguzhan-yilmaz/endpoint-latency-exporter)                                 | Deploy recurring Lambda Functions across AWS Regions to measure endpoint latency with Prometheus Push Gateway + Grafana Dashboards                                                 |
-| [aws-jmespath-utils](https://github.com/oguzhan-yilmaz/aws-jmespath-utils)                                               | Python jmespath custom functions to filter and exclude AWS resources by tags                                                                                                       | -->
+| [aws-jmespath-utils](https://github.com/oguzhan-yilmaz/aws-jmespath-utils)                                               | Python jmespath custom functions to filter and exclude AWS resources by tags                                                                                                       | --> 
