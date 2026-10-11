@@ -66,7 +66,7 @@ ROWS = [
     # (kind, segments)  segment = (col, color, bold, text)
     ("prompt", [(0, GREEN, True, "oguzhan-yilmaz"), (14, DIM, False, "@"),
                 (15, BLUE, True, "github"), (21, DIM, False, " ~/oguzhan-yilmaz"),
-                (37, FG, False, " % "), (41, FG, False, "onefetch")]),
+                (37, FG, False, " % ")]),
     ("gap", []),
     # logo block rows (left) + info block rows (right)
     ("info", [(0, CYAN, True, LOGO[0]), (38, FG, True, "oguzhan-yilmaz")]),
@@ -185,7 +185,7 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W:.0f}" height="{H}" v
   <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
   <circle cx="42" cy="18" r="6" fill="#febc2e"/>
   <circle cx="62" cy="18" r="6" fill="#28c840"/>
-  <text x="{W / 2:.0f}" y="22" text-anchor="middle" fill="{DIM}" font-size="12">oguzhan-yilmaz — onefetch</text>
+  <text x="{W / 2:.0f}" y="22" text-anchor="middle" fill="{DIM}" font-size="12">oguzhan-yilmaz</text>
   <g filter="none">
 {content}  </g>
   {scan}

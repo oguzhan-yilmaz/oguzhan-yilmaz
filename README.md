@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/hero-terminal.svg" alt="oguzhan-yilmaz — onefetch terminal" width="732"/>
+  <img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/hero-terminal.svg" alt="oguzhan-yilmaz — terminal" width="732"/>
 </p>
 
 <br/>

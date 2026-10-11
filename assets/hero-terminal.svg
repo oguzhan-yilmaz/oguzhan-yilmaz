@@ -15,9 +15,9 @@
   <circle cx="22" cy="18" r="6" fill="#ff5f57"/>
   <circle cx="42" cy="18" r="6" fill="#febc2e"/>
   <circle cx="62" cy="18" r="6" fill="#28c840"/>
-  <text x="366" y="22" text-anchor="middle" fill="#6e7b91" font-size="12">oguzhan-yilmaz — onefetch</text>
+  <text x="366" y="22" text-anchor="middle" fill="#6e7b91" font-size="12">oguzhan-yilmaz</text>
   <g filter="none">
-  <text y="62.0" xml:space="preserve"><tspan x="26.0" fill="#7ee787" font-weight="bold">oguzhan-yilmaz</tspan><tspan x="139.4" fill="#6e7b91">@</tspan><tspan x="147.5" fill="#61afef" font-weight="bold">github</tspan><tspan x="196.1" fill="#6e7b91">&#160;~/oguzhan-yilmaz</tspan><tspan x="325.7" fill="#c9d1d9">&#160;%&#160;</tspan><tspan x="358.1" fill="#c9d1d9">onefetch</tspan></text>
+  <text y="62.0" xml:space="preserve"><tspan x="26.0" fill="#7ee787" font-weight="bold">oguzhan-yilmaz</tspan><tspan x="139.4" fill="#6e7b91">@</tspan><tspan x="147.5" fill="#61afef" font-weight="bold">github</tspan><tspan x="196.1" fill="#6e7b91">&#160;~/oguzhan-yilmaz</tspan><tspan x="325.7" fill="#c9d1d9">&#160;%&#160;</tspan></text>
   <text y="100.3" xml:space="preserve"><tspan x="26.0" fill="#56d4dd" font-weight="bold" filter="url(#glow)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;_&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan x="333.8" fill="#c9d1d9" font-weight="bold">oguzhan-yilmaz</tspan></text>
   <text y="119.5" xml:space="preserve"><tspan x="26.0" fill="#56d4dd" font-weight="bold" filter="url(#glow)">&#160;___&#160;&#160;__&#160;_&#160;_&#160;&#160;_&#160;__|&#160;|_&#160;&#160;__&#160;_&#160;_&#160;_&#160;&#160;</tspan><tspan x="333.8" fill="#6e7b91">--------------</tspan></text>
   <text y="138.7" xml:space="preserve"><tspan x="26.0" fill="#56d4dd" font-weight="bold" filter="url(#glow)">/&#160;_&#160;\/&#160;_`&#160;|&#160;||&#160;|_&#160;/&#160;&#x27;&#160;\/&#160;_`&#160;|&#160;&#x27;&#160;\&#160;</tspan><tspan x="333.8" fill="#56d4dd" font-weight="bold">&#160;&#160;focus&#160;</tspan><tspan x="398.6" fill="#c9d1d9">Cloud&#160;·&#160;Kubernetes&#160;·&#160;GitOps</tspan></text>
