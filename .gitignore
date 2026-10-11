@@ -1,0 +1,4 @@
+.DS_Store
+.npm-cache/
+.chrome-tmp/
+__pycache__/
