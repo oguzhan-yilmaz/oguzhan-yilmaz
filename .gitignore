@@ -1,4 +1,3 @@
-.DS_Store
 .npm-cache/
 .chrome-tmp/
-__pycache__/
+assets/hero-preview.png

@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/oguzhan-y/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/linkedin.png" alt="LinkedIn" height="20"/>
   </a>
 </p>
 
@@ -36,26 +36,26 @@
 
 | Package | Badge |
 | --- | --- |
-| [balcony](https://pypi.org/project/balcony/) | [![balcony](https://img.shields.io/pypi/v/balcony?style=flat-square&logo=pypi&logoColor=white&color=1e90ff)](https://pypi.org/project/balcony/) ![dl](https://img.shields.io/pypi/dm/balcony?style=flat-square&color=7ee787) |
-| [aws-jmespath-utils](https://pypi.org/project/aws-jmespath-utils/) | [![aws-jmespath-utils](https://img.shields.io/pypi/v/aws-jmespath-utils?style=flat-square&logo=pypi&logoColor=white&color=1e90ff)](https://pypi.org/project/aws-jmespath-utils/) ![dl](https://img.shields.io/pypi/dm/aws-jmespath-utils?style=flat-square&color=7ee787) |
-| [ctower](https://pypi.org/project/ctower/) | [![ctower](https://img.shields.io/pypi/v/ctower?style=flat-square&logo=pypi&logoColor=white&color=1e90ff)](https://pypi.org/project/ctower/) ![dl](https://img.shields.io/pypi/dm/ctower?style=flat-square&color=7ee787) |
+| [balcony](https://pypi.org/project/balcony/) | [<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/pypi-balcony-v.png" alt="balcony version" height="20"/>](https://pypi.org/project/balcony/) <img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/pypi-balcony-dm.png" alt="balcony downloads" height="20"/> |
+| [aws-jmespath-utils](https://pypi.org/project/aws-jmespath-utils/) | [<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/pypi-jmespath-v.png" alt="aws-jmespath-utils version" height="20"/>](https://pypi.org/project/aws-jmespath-utils/) <img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/pypi-jmespath-dm.png" alt="aws-jmespath-utils downloads" height="20"/> |
+| [ctower](https://pypi.org/project/ctower/) | [<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/pypi-ctower-v.png" alt="ctower version" height="20"/>](https://pypi.org/project/ctower/) <img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/pypi-ctower-dm.png" alt="ctower downloads" height="20"/> |
 
 **Docker · ghcr**
 
-[![hpa-prescaler-controller](https://img.shields.io/docker/pulls/hepapi/hpa-prescaler-controller?style=flat-square&logo=docker&logoColor=white&labelColor=2496ed)](https://hub.docker.com/r/hepapi/hpa-prescaler-controller)
-[![balcony](https://img.shields.io/badge/ghcr-balcony-1e90ff?style=flat-square&logo=github&logoColor=white)](https://github.com/oguzhan-yilmaz/balcony/pkgs/container/balcony)
-[![balcony-terraform-import](https://img.shields.io/badge/ghcr-balcony--terraform--import-1e90ff?style=flat-square&logo=github&logoColor=white)](https://github.com/oguzhan-yilmaz/balcony/pkgs/container/balcony-terraform-import)
-[![argocd-backup-s3](https://img.shields.io/badge/ghcr-argocd--backup--s3-1e90ff?style=flat-square&logo=github&logoColor=white)](https://github.com/oguzhan-yilmaz/argocd-backup-s3/pkgs/container/argocd-backup-s3)
-[![pyCrossfade](https://img.shields.io/badge/ghcr-pyCrossfade-1e90ff?style=flat-square&logo=github&logoColor=white)](https://github.com/oguzhan-yilmaz/pyCrossfade/pkgs/container/pycrossfade)
-[![steampipe-powerpipe-kubernetes](https://img.shields.io/badge/ghcr-steampipe--powerpipe--kubernetes-1e90ff?style=flat-square&logo=github&logoColor=white)](https://github.com/oguzhan-yilmaz/steampipe-powerpipe-kubernetes/pkgs/container/steampipe-powerpipe-kubernetes--steampipe)
+[<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/docker-hpa-prescaler.png" alt="docker pulls" height="20"/>](https://hub.docker.com/r/hepapi/hpa-prescaler-controller)
+[<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/ghcr-balcony.png" alt="balcony-1e90ff" height="20"/>](https://github.com/oguzhan-yilmaz/balcony/pkgs/container/balcony)
+[<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/ghcr-balcony-tf-import.png" alt="balcony-terraform-import-1e90ff" height="20"/>](https://github.com/oguzhan-yilmaz/balcony/pkgs/container/balcony-terraform-import)
+[<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/ghcr-argocd-backup.png" alt="argocd-backup-s3-1e90ff" height="20"/>](https://github.com/oguzhan-yilmaz/argocd-backup-s3/pkgs/container/argocd-backup-s3)
+[<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/ghcr-pycrossfade.png" alt="pyCrossfade-1e90ff" height="20"/>](https://github.com/oguzhan-yilmaz/pyCrossfade/pkgs/container/pycrossfade)
+[<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/ghcr-steampipe.png" alt="steampipe-powerpipe-kubernetes-1e90ff" height="20"/>](https://github.com/oguzhan-yilmaz/steampipe-powerpipe-kubernetes/pkgs/container/steampipe-powerpipe-kubernetes--steampipe)
 
 **Helm · ArtifactHub**
 
-[![auto-blackbox-exporter](https://img.shields.io/badge/artifacthub-auto--blackbox--exporter-1fc8f3?style=flat-square)](https://artifacthub.io/packages/helm/auto-blackbox-exporter/auto-blackbox-exporter)
-[![argocd-backup-s3](https://img.shields.io/badge/artifacthub-argocd--backup--s3-1fc8f3?style=flat-square)](https://artifacthub.io/packages/helm/argocd-backup-s3/argocd-backup-s3)
-[![steampipe-powerpipe-kubernetes](https://img.shields.io/badge/artifacthub-steampipe--powerpipe--kubernetes-1fc8f3?style=flat-square)](https://artifacthub.io/packages/helm/steampipe-powerpipe-kubernetes/steampipe-powerpipe-kubernetes)
-[![crtsh-kubernetes](https://img.shields.io/badge/artifacthub-crtsh--kubernetes-1fc8f3?style=flat-square)](https://artifacthub.io/packages/helm/crtsh-kubernetes/crtsh-kubernetes)
-[![hpa-prescaler-controller](https://img.shields.io/badge/helm-hpa--prescaler--controller-1fc8f3?style=flat-square)](https://github.com/hepapi/hpa-prescaler-controller/tree/main/deploy/helm-chart)
+[<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/helm-auto-blackbox.png" alt="artifacthub-auto--blackbox--exporter-1fc8f3" height="20"/>](https://artifacthub.io/packages/helm/auto-blackbox-exporter/auto-blackbox-exporter)
+[<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/helm-argocd-backup.png" alt="artifacthub-argocd--backup--s3-1fc8f3" height="20"/>](https://artifacthub.io/packages/helm/argocd-backup-s3/argocd-backup-s3)
+[<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/helm-steampipe.png" alt="artifacthub-steampipe--powerpipe--kubernetes-1fc8f3" height="20"/>](https://artifacthub.io/packages/helm/steampipe-powerpipe-kubernetes/steampipe-powerpipe-kubernetes)
+[<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/helm-crtsh.png" alt="artifacthub-crtsh--kubernetes-1fc8f3" height="20"/>](https://artifacthub.io/packages/helm/crtsh-kubernetes/crtsh-kubernetes)
+[<img src="https://raw.githubusercontent.com/oguzhan-yilmaz/oguzhan-yilmaz/main/assets/badges/helm-hpa-prescaler.png" alt="helm-hpa--prescaler--controller-1fc8f3" height="20"/>](https://github.com/hepapi/hpa-prescaler-controller/tree/main/deploy/helm-chart)
 
 ---
 
@@ -82,7 +82,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oguzhan-yilmaz&style=flat-square&color=1f6feb" alt="profile views"/>
+  
 </p>
 
 <p align="center"><sub><code>terminal panel: <a href="https://github.com/oguzhan-yilmaz/oguzhan-yilmaz/blob/main/tools/make_hero.py">tools/make_hero.py</a></code></sub></p>
